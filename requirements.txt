@@ -2,5 +2,5 @@ gymnasium>=0.29
 torch
 numpy
 matplotlib
-# optional, only for the model-free SAC baseline
+
 stable-baselines3
